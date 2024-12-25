@@ -22,6 +22,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GaneshRawool18&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRawool18&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🖥️ Languages Used in Projects:
+![Python](https://img.shields.io/badge/Python-40%25-blue?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-15%25-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10%25-blue?style=flat&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-10%25-blue?style=flat&logo=dart&logoColor=white)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GaneshRawool18&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
