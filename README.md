@@ -27,7 +27,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GaneshRawool18&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<img src="https://streak-stats.demolab.com?user=GaneshRawool18&theme=blue-green&hide_border=false" alt="GitHub Streak Stats"><br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GaneshRawool18&theme=blue-green&hide_border=false)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshRawool18&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
